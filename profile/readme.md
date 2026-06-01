@@ -1,5 +1,5 @@
 <p>
-  <img src="Logo_Sortirin_Samping.png" width="180">
+  <img src="Logo-Sortirin-Samping.png" width="180">
 </p>
 
 <h1>Sortir.In</h1>
