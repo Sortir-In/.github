@@ -1,10 +1,10 @@
-<p align="center">
+<p>
   <img src="assets/logo-sortirin.png" width="180">
 </p>
 
-<h1 align="center">Sortir.In</h1>
+<h1>Sortir.In</h1>
 
-<p align="center">
+<p>
 AI-Powered Smart Waste Classification Platform
 </p>
 
