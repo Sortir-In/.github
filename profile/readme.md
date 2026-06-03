@@ -48,13 +48,13 @@ Sortir.In adalah platform berbasis Artificial Intelligence yang membantu masyara
 
 ## Repositories
 
-| Repository | Description |
-|------------|-------------|
-| [front-end-sortirin](https://github.com/Sortir-In/front-end-sortirin) | Web Application |
-| [backend-sortirin](https://github.com/Sortir-In/backend-sortirin) | REST API |
-| [ml-api-sortirin](https://github.com/Sortir-In/ml-api-sortirin) | AI Classification Service |
-| [Data-Science](https://github.com/Sortir-In/Data-Science) | Machine Learning & EDA |
-| [dashboard-analytics](https://github.com/Sortir-In/dashboard-analytics) | Analytics Dashboard |
+| Repository | Description | Tech Stack |
+|------------|-------------|------------|
+| [front-end-sortirin](https://github.com/Sortir-In/front-end-sortirin) | Web Application | React.js, Tailwind CSS, Vite |
+| [backend-sortirin](https://github.com/Sortir-In/backend-sortirin) | REST API | Node.js, Express.js, PostgreSQL |
+| [ml-api-sortirin](https://github.com/Sortir-In/ml-api-sortirin) | AI Classification Service | FastAPI, MobileNetV2, TensorFlow |
+| [dashboard-analytics](https://github.com/Sortir-In/dashboard-analytics) | Analytics Dashboard | Python, Streamlit, Pandas |
+| [Data-Science](https://github.com/Sortir-In/Data-Science) | Machine Learning & EDA | Python, Jupyter Notebook |
 
 ---
 
@@ -74,6 +74,21 @@ Sortir.In adalah platform berbasis Artificial Intelligence yang membantu masyara
 ## Project Status
 
 Active Development
+
+---
+
+## 📋 Prerequisites
+
+Pastikan sudah terinstall di komputer Anda:
+
+| Tools | Versi Minimum | Keterangan |
+|---|---|---|
+| [Node.js](https://nodejs.org/) | v18+ | Untuk Frontend & Backend |
+| [npm](https://www.npmjs.com/) | v9+ | Package manager Node.js |
+| [PostgreSQL](https://www.postgresql.org/) | v14+ | Database Backend |
+| [Python](https://www.python.org/) | v3.9+ | Untuk ML API & Dashboard |
+| [Git](https://git-scm.com/) | v2+ | Clone repository |
+| [Docker](https://www.docker.com/) | v20+ | Opsional, untuk ML API |
 
 ---
 
